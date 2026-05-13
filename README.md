@@ -1,10 +1,9 @@
-# Package name
-Package Name
+# Natural induction
 <pre>
-  pip install package-name
+  pip install natural-induction
 </pre>
 Then:
 ```Python
   # Python
-  import package_name
+  import natural_induction
 ```
